@@ -38,4 +38,4 @@ Aktorzy
 Magazynier. Rola: Pracownik magazynu, na co dzień obsługujący towar. Działania: Logowanie, wyszukiwanie produktów, sprawdzanie lokalizacji i ceny, rejestrowanie przyjęć i wydań towaru.
 Kierownik. Rola: Osoba nadzorująca magazyn, ma szersze uprawnienia niż magazynier. Działania: Wszystko, co magazynier, a dodatkowo: przeglądanie stanów magazynowych, dodawanie i edycja produktów, przeglądanie historii operacji, korzystanie z raportów. Nie zarządza kontami.
 Administrator. Rola: Osoba odpowiedzialna za konta i dostęp do systemu. Działania: Logowanie, tworzenie i dezaktywacja kont, nadawanie ról i uprawnień, resetowanie haseł.
-Diagram Przypadków Użycia (diagram.png)
+![Diagram Przypadków Użycia](diagram.png)
